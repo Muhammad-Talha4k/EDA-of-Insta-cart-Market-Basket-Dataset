@@ -1,4 +1,4 @@
-# EDA-of-Insta-cart-Market-Basket-Dataset
+# EDA of Insta cart Market Basket Dataset
 
 Dataset: https://www.kaggle.com/c/instacart-market-basket-analysis/data 
 
